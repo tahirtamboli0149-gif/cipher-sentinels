@@ -1,0 +1,51 @@
+post_id,account_id,text,timestamp,platform,reply_to,location,scenario
+P0001,A001,The city has announced a major public transport update today.,2026-10-28 10:00:00,SyntheticDemo,,Region C,similar_synchronized
+P0002,A002,A major public transport update has been announced by the city today.,2026-10-28 10:00:15,SyntheticDemo,,Region A,similar_synchronized
+P0003,A003,Today the city announced a major update to public transport.,2026-10-28 10:00:30,SyntheticDemo,,Region A,similar_synchronized
+P0004,A004,The city announced its major public transport update today.,2026-10-28 10:00:45,SyntheticDemo,,Region C,similar_synchronized
+P0032,A111,The weather is pleasant today.,2026-10-28 10:11:00,SyntheticDemo,,Region B,organic_or_unrelated
+P0005,A005,The city has announced a major public transport update today.,2026-10-28 10:20:00,SyntheticDemo,,Region B,similar_synchronized
+P0030,A109,I enjoyed the technology exhibition yesterday.,2026-10-28 10:20:00,SyntheticDemo,,Region C,organic_or_unrelated
+P0033,A112,The local library has extended its opening hours.,2026-10-28 10:20:00,SyntheticDemo,,Region B,organic_or_unrelated
+P0006,A006,A major public transport update has been announced by the city today.,2026-10-28 10:20:15,SyntheticDemo,,Region A,similar_synchronized
+P0007,A007,Today the city announced a major update to public transport.,2026-10-28 10:20:30,SyntheticDemo,,Region A,similar_synchronized
+P0008,A008,The city announced its major public transport update today.,2026-10-28 10:20:45,SyntheticDemo,,Region A,similar_synchronized
+P0009,A009,The city has announced a major public transport update today.,2026-10-28 10:40:00,SyntheticDemo,,Region C,similar_synchronized
+P0024,A103,I took the bus to college this morning.,2026-10-28 10:40:00,SyntheticDemo,,Unknown,organic_or_unrelated
+P0010,A010,A major public transport update has been announced by the city today.,2026-10-28 10:40:15,SyntheticDemo,,Region A,similar_synchronized
+P0011,A011,Today the city announced a major update to public transport.,2026-10-28 10:40:30,SyntheticDemo,,Region C,similar_synchronized
+P0012,A012,The city announced its major public transport update today.,2026-10-28 10:40:45,SyntheticDemo,,Region C,similar_synchronized
+P0022,A101,I am looking for a good place to study.,2026-10-28 10:50:00,SyntheticDemo,,Unknown,organic_or_unrelated
+P0044,A123,The weather is pleasant today.,2026-10-28 10:54:00,SyntheticDemo,,Region C,organic_or_unrelated
+P0041,A120,I am looking for a good place to study.,2026-10-28 10:56:00,SyntheticDemo,,Region C,organic_or_unrelated
+P0050,A129,Does anyone know when the next train arrives?,2026-10-28 10:56:00,SyntheticDemo,,Region B,organic_or_unrelated
+P0042,A121,I took the bus to college this morning.,2026-10-28 10:58:00,SyntheticDemo,,Region A,organic_or_unrelated
+P0013,A013,The city has announced a major public transport update today.,2026-10-28 11:00:00,SyntheticDemo,,Region C,similar_synchronized
+P0014,A014,A major public transport update has been announced by the city today.,2026-10-28 11:00:15,SyntheticDemo,,Region A,similar_synchronized
+P0015,A015,Today the city announced a major update to public transport.,2026-10-28 11:00:30,SyntheticDemo,,Region C,similar_synchronized
+P0016,A016,The city announced its major public transport update today.,2026-10-28 11:00:45,SyntheticDemo,,Region B,similar_synchronized
+P0039,A118,I am looking for a good place to study.,2026-10-28 11:02:00,SyntheticDemo,,Region B,organic_or_unrelated
+P0047,A126,Traffic was heavy near the railway station.,2026-10-28 11:07:00,SyntheticDemo,,Region B,organic_or_unrelated
+P0025,A104,Does anyone know when the next train arrives?,2026-10-28 11:11:00,SyntheticDemo,,Region B,organic_or_unrelated
+P0017,A017,The city has announced a major public transport update today.,2026-10-28 11:20:00,SyntheticDemo,,Region A,similar_synchronized
+P0018,A018,A major public transport update has been announced by the city today.,2026-10-28 11:20:15,SyntheticDemo,,Region A,similar_synchronized
+P0019,A019,Today the city announced a major update to public transport.,2026-10-28 11:20:30,SyntheticDemo,,Region A,similar_synchronized
+P0020,A020,The city announced its major public transport update today.,2026-10-28 11:20:45,SyntheticDemo,,Region A,similar_synchronized
+P0026,A105,I need to finish my assignment before Friday.,2026-10-28 11:26:00,SyntheticDemo,,Region A,organic_or_unrelated
+P0028,A107,Does anyone know when the next train arrives?,2026-10-28 11:28:00,SyntheticDemo,,Region C,organic_or_unrelated
+P0031,A110,The college event starts at ten tomorrow.,2026-10-28 11:32:00,SyntheticDemo,,Region B,organic_or_unrelated
+P0036,A115,Traffic was heavy near the railway station.,2026-10-28 11:34:00,SyntheticDemo,,Region C,organic_or_unrelated
+P0027,A106,The weather is pleasant today.,2026-10-28 11:37:00,SyntheticDemo,,Region A,organic_or_unrelated
+P0034,A113,The weather is pleasant today.,2026-10-28 11:37:00,SyntheticDemo,,Region C,organic_or_unrelated
+P0040,A119,Public transport can make commuting more convenient.,2026-10-28 11:37:00,SyntheticDemo,,Region C,organic_or_unrelated
+P0043,A122,Does anyone know when the next train arrives?,2026-10-28 11:42:00,SyntheticDemo,,Region C,organic_or_unrelated
+P0049,A128,The college event starts at ten tomorrow.,2026-10-28 11:49:00,SyntheticDemo,,Unknown,organic_or_unrelated
+P0023,A102,I need to finish my assignment before Friday.,2026-10-28 11:54:00,SyntheticDemo,,Region C,organic_or_unrelated
+P0029,A108,I took the bus to college this morning.,2026-10-28 11:57:00,SyntheticDemo,,Region A,organic_or_unrelated
+P0021,A100,I need to finish my assignment before Friday.,2026-10-28 12:09:00,SyntheticDemo,,Region A,organic_or_unrelated
+P0048,A127,I need to finish my assignment before Friday.,2026-10-28 12:23:00,SyntheticDemo,,Region C,organic_or_unrelated
+P0038,A117,The weather is pleasant today.,2026-10-28 12:35:00,SyntheticDemo,,Region B,organic_or_unrelated
+P0035,A114,Public transport can make commuting more convenient.,2026-10-28 12:42:00,SyntheticDemo,,Region C,organic_or_unrelated
+P0046,A125,I enjoyed the technology exhibition yesterday.,2026-10-28 12:44:00,SyntheticDemo,,Unknown,organic_or_unrelated
+P0045,A124,I need to finish my assignment before Friday.,2026-10-28 12:47:00,SyntheticDemo,,Unknown,organic_or_unrelated
+P0037,A116,I need to finish my assignment before Friday.,2026-10-28 12:51:00,SyntheticDemo,,Region C,organic_or_unrelated
