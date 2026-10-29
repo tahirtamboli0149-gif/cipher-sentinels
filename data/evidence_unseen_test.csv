@@ -1,0 +1,14 @@
+
+claim,article_title,article_summary,label
+"Government cancelled scholarship funding","Education department confirms aid programme has ended","Officials say financial assistance will no longer be provided under the programme.",supports
+"Government cancelled scholarship funding","Ministry says scholarship payments will continue","The department says eligible students will still receive financial assistance.",contradicts
+"Government cancelled scholarship funding","Students question changes to financial aid","Students discuss possible effects of changes to education funding.",context
+"City announced free public transport","Council approves zero-fare bus travel","The new policy allows residents to ride city buses without paying fares.",supports
+"City announced free public transport","Council says bus fares remain in place","The transport authority states that passengers must continue buying tickets.",contradicts
+"City announced free public transport","How to use the city's bus network","A guide to routes, schedules, and ticket options.",context
+"School cancelled examinations","School postpones all scheduled examinations","The administration says the planned exams will not take place on the original dates.",supports
+"School cancelled examinations","School confirms exams will take place as planned","The principal says the examination timetable has not changed.",contradicts
+"School cancelled examinations","Tips for preparing for final examinations","Teachers share revision strategies and study advice.",context
+"Government introduced a new student scholarship","Education ministry opens applications for a new grant","Eligible students can apply for a newly announced financial assistance scheme.",supports
+"Government introduced a new student scholarship","Ministry says no additional scholarship has been launched","Officials say the existing scholarship schemes remain unchanged.",contradicts
+"Government introduced a new student scholarship","A guide to applying for education grants","The article explains common eligibility rules and application procedures.",context

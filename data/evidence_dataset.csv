@@ -1,0 +1,14 @@
+
+claim,article_title,article_summary,label
+"Government cancelled scholarship funding","Government confirms scholarship funding was cancelled","The department announced that the funding programme was cancelled.",supports
+"Government cancelled scholarship funding","Government says scholarship funding will continue","Officials confirmed the programme will continue next year.",contradicts
+"Government cancelled scholarship funding","How scholarship programmes work","An explainer describing eligibility rules and application procedures.",context
+"City announced free public transport","City announces free public transport for residents","The transport department confirmed free rides begin next month.",supports
+"City announced free public transport","City rejects report of free public transport","Officials said fares remain unchanged and denied the announcement.",contradicts
+"City announced free public transport","Guide to the city's public transport system","A general overview of routes, ticketing, and operating hours.",context
+"School cancelled examinations","School confirms examinations have been cancelled","The school announced that the scheduled examinations will not take place.",supports
+"School cancelled examinations","School says examinations will proceed as scheduled","The administration denied reports of cancellation.",contradicts
+"School cancelled examinations","How schools prepare examination timetables","An overview of examination planning and scheduling.",context
+"Government introduced a new student scholarship","Government announces a new student scholarship","The education department published eligibility and application details.",supports
+"Government introduced a new student scholarship","Government denies announcement of a new scholarship","Officials stated that no new scholarship programme had been announced.",contradicts
+"Government introduced a new student scholarship","Guide to existing student scholarships","A summary of established financial aid programmes.",context
